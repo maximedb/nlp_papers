@@ -1,7 +1,7 @@
 # NLP Papers
 Repository of NLP papers useful for applying NLP techniques to financial markets.
 
-## NLP Financial Applications
+### NLP Financial Applications
 Direct applications of NLP research to financial markets.
 * [Analyzing Stock Market Movements Using Twitter Sentiment Analysis](pdf/analyzing_stock_market_movements_using_twitter_sentiment_analysis.pdf)
 * [Deep Learning for Financial Sentiment Analysis on Finance News Providers](pdf/deep_learning_for_financial_sentiment_analysis_on_finance_news_providers.pdf)
@@ -16,18 +16,18 @@ Direct applications of NLP research to financial markets.
 * [Sentiment Predictability for Stocks](pdf/sentiment_predictability_for_stocks.pdf)
 * [Textual Analysis of Stock Market Prediction Using Breaking Financial News: The AZFinText System](pdf/textual_analysis_of_stock_market_prediction.pdf)
 * [Twitter mood predicts the stock market](pdf/twitter_mood_predicts_the_stock_market.pdf)
-## NLP Research
-Fundemental NLP research that could find applications in the financial markets
+### NLP Research
+Fundamental NLP research that could find applications in the financial markets
 * [Reading Wikipedia to Answer Open Domain Questions](pdf/reading_wikipedia_to_answer_open_domain_questions.pdf)
 * [Ask Me Anything: Dynamic Memory Network for Natural Language Processing](pdf/ask_me_anything_dynamic_memory_networks_for_nlp.pdf)
 * [Neural Generative Question Answering](pdf/neural_generative_question_answering.pdf)
 * [Question Answering Using Deep Learning](pdf/question_answering_using_deep_learning.pdf)
 
-## News
+### News
 * [AI Decodes Trading Signales Hidden in Jargon](pdf/ai_decodes_trading_signals_hidden_in_jargon.pdf)
 
-## NLP Datasets for Financial Markets
+### NLP Datasets for Financial Markets
 * [NLP Dataset for the Stock Market](http://www.maximedb.com)
 
-## Contribution
+### Contribution
 Contributions more than welcome :-)
