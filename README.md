@@ -18,6 +18,10 @@ Direct applications of NLP research to financial markets.
 * [Twitter mood predicts the stock market](pdf/twitter_mood_predicts_the_stock_market.pdf)
 ## NLP Research
 Fundemental NLP research that could find applications in the financial markets
+* [Reading Wikipedia to Answer Open Domain Questions](pdf/reading_wikipedia_to_answer_open_domain_questions.pdf)
+* [Ask Me Anything: Dynamic Memory Network for Natural Language Processing](pdf/ask_me_anything_dynamic_memory_networks_for_nlp.pdf)
+* [Neural Generative Question Answering](pdf/neural_generative_question_answering.pdf)
+* [Question Answering Using Deep Learning](pdf/question_answering_using_deep_learning.pdf)
 
 ## News
 * [AI Decodes Trading Signales Hidden in Jargon](pdf/ai_decodes_trading_signals_hidden_in_jargon.pdf)
