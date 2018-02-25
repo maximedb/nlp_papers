@@ -22,6 +22,11 @@ Fundamental NLP research that could find applications in the financial markets
 * [Ask Me Anything: Dynamic Memory Network for Natural Language Processing](pdf/ask_me_anything_dynamic_memory_networks_for_nlp.pdf)
 * [Neural Generative Question Answering](pdf/neural_generative_question_answering.pdf)
 * [Question Answering Using Deep Learning](pdf/question_answering_using_deep_learning.pdf)
+* [Convolutional Neural Networks for Sentence Classification](pdf/convolutional_neural_networkds_for_sentence_classification.pdf)
+* [Enriching Word Vectors with Subword Information](pdf/enriching_word_vectors_with_subword_information.pdf)
+* [Fine-tuned Language Models for Text Classification](pdf/fine_tuned_language_models_for_text_classification.pdf)
+* [From Word Embeddings To Document Distances](pdf/from_word_embeddings_to_document_distances.pdf)
+* [Neural Text Generation: A Practical Guide](neural_text_generation_a_practical_guide.pdf)
 
 ### News
 * [AI Decodes Trading Signales Hidden in Jargon](pdf/ai_decodes_trading_signals_hidden_in_jargon.pdf)
