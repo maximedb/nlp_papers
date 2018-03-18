@@ -35,7 +35,7 @@ Fundamental NLP research that could find applications in the financial markets. 
 * [AI Decodes Trading Signales Hidden in Jargon](pdf/ai_decodes_trading_signals_hidden_in_jargon.pdf)
 
 ### NLP Datasets for Financial Markets
-* [NLP Dataset for the Stock Market](http://www.maximedb.com)
+* [NLP Dataset for the Stock Market](http://neuralyst.com)
 
 ### Contribution
 Contributions more than welcome :-)
