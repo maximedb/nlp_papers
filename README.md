@@ -17,7 +17,7 @@ Direct applications of NLP research to financial markets.
 * [Textual Analysis of Stock Market Prediction Using Breaking Financial News: The AZFinText System](pdf/textual_analysis_of_stock_market_prediction.pdf)
 * [Twitter mood predicts the stock market](pdf/twitter_mood_predicts_the_stock_market.pdf)
 ### NLP Research
-Fundamental NLP research that could find applications in the financial markets
+Fundamental NLP research that could find applications in the financial markets. Fundamental research on Question Answering could be applied to credit analysis (default probability given a set of documents). Document Classification could be applied to ESG analysis to predict whether a company is sustainable or not. Sentiment Analysis could be applied to predict the impact a given document will have on the stock price.
 * [Reading Wikipedia to Answer Open Domain Questions](pdf/reading_wikipedia_to_answer_open_domain_questions.pdf)
 * [Ask Me Anything: Dynamic Memory Network for Natural Language Processing](pdf/ask_me_anything_dynamic_memory_networks_for_nlp.pdf)
 * [Neural Generative Question Answering](pdf/neural_generative_question_answering.pdf)
