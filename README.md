@@ -32,6 +32,7 @@ Fundamental NLP research that could find applications in the financial markets. 
 * [Fine-tuned Language Models for Text Classification](pdf/fine_tuned_language_models_for_text_classification.pdf)
 * [From Word Embeddings To Document Distances](pdf/from_word_embeddings_to_document_distances.pdf)
 * [Neural Text Generation: A Practical Guide](neural_text_generation_a_practical_guide.pdf)
+* [A Deep Reinforcement Model for Abstractive Summarization](pdf/a_deep_reinforced_model_for_abstractive_summarization.pdf)
 
 ### Repos
 * [WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)
