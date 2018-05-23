@@ -19,6 +19,7 @@ Direct applications of NLP research to financial markets.
 * [Natural Language Processing - Part 1: Primer](pdf/natural_language_processing_part_1_primer.pdf)
 * [An Analysis of Verbs in Financial News Articles and their Impact on Stock Prices](pdf/an_analysis_of_verbs_in_financial_news_articles_and_their_impact_on_stock_price.pdf)
 * [Trading Strategies to Exploit Blog and News Sentiment](pdf/trading_strategies_to_exploit_blog_and_news_sentiment.pdf)
+* [From Word to Time Series Embedding](pdf/from_word_to_time_series_embedding.pdf)
 
 ### NLP Research
 Fundamental NLP research that could find applications in the financial markets. Fundamental research on Question Answering could be applied to credit analysis (default probability given a set of documents). Document Classification could be applied to ESG analysis to predict whether a company is sustainable or not. Sentiment Analysis could be applied to predict the impact a given document will have on the stock price.
@@ -38,8 +39,6 @@ Fundamental NLP research that could find applications in the financial markets. 
 ### News
 * [AI Decodes Trading Signales Hidden in Jargon](pdf/ai_decodes_trading_signals_hidden_in_jargon.pdf)
 
-### NLP Datasets for Financial Markets
-* [NLP Dataset for the Stock Market](http://neuralyst.com)
 
 ### Contribution
 Contributions more than welcome :-)
