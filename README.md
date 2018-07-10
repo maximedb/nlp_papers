@@ -34,8 +34,7 @@ Fundamental NLP research that could find applications in the financial markets. 
 * [Neural Text Generation: A Practical Guide](neural_text_generation_a_practical_guide.pdf)
 * [A Deep Reinforcement Model for Abstractive Summarization](pdf/a_deep_reinforced_model_for_abstractive_summarization.pdf)
 * [Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries](domain_adaptation_using_stock_market_prices_to_refine_sentiment_dictionaries.pdf)
-* [Lancaster A at SemEval-2017 Task 5: Evaluation metrics matter:
-predicting sentiment from financial news headlines](lancaster_a_at_semeval-2017_task_5:evaluation_metrics_matter:predicting_sentiment_from_financial_news_headlines.pdf)
+* [Lancaster A at SemEval-2017 Task 5: Evaluation metrics matter](lancaster_a_at_semeval-2017_task_5_evaluation_metrics_matter_predicting_sentiment_from_financial_news_headlines.pdf)
 
 ### Repos
 * [WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)
