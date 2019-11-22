@@ -34,6 +34,7 @@ Direct applications of NLP research to financial markets.
 * [Differences in Conference Call Tones: Managers Versus Analysts](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2543993)
 * [The Blame Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2447042)
 * [Can Investors Detect Managers’ Lack of Spontaneity? Adherence to Pre-determined Scripts during Earnings Conference Calls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2426504)
+* [Predicting Returns with Text Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389884)
 
 ### NLP Research
 Fundamental NLP research that could find applications in the financial markets. Fundamental research on Question Answering could be applied to credit analysis (default probability given a set of documents). Document Classification could be applied to ESG analysis to predict whether a company is sustainable or not. Sentiment Analysis could be applied to predict the impact a given document will have on the stock price.
