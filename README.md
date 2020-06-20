@@ -35,21 +35,8 @@ Direct applications of NLP research to financial markets.
 * [The Blame Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2447042)
 * [Can Investors Detect Managers’ Lack of Spontaneity? Adherence to Pre-determined Scripts during Earnings Conference Calls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2426504)
 * [Predicting Returns with Text Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389884)
-
-### NLP Research
-Fundamental NLP research that could find applications in the financial markets. Fundamental research on Question Answering could be applied to credit analysis (default probability given a set of documents). Document Classification could be applied to ESG analysis to predict whether a company is sustainable or not. Sentiment Analysis could be applied to predict the impact a given document will have on the stock price.
-* [Reading Wikipedia to Answer Open Domain Questions](pdf/reading_wikipedia_to_answer_open_domain_questions.pdf)
-* [Ask Me Anything: Dynamic Memory Network for Natural Language Processing](pdf/ask_me_anything_dynamic_memory_networks_for_nlp.pdf)
-* [Neural Generative Question Answering](pdf/neural_generative_question_answering.pdf)
-* [Question Answering Using Deep Learning](pdf/question_answering_using_deep_learning.pdf)
-* [Convolutional Neural Networks for Sentence Classification](pdf/convolutional_neural_networkds_for_sentence_classification.pdf)
-* [Enriching Word Vectors with Subword Information](pdf/enriching_word_vectors_with_subword_information.pdf)
-* [Fine-tuned Language Models for Text Classification](pdf/fine_tuned_language_models_for_text_classification.pdf)
-* [From Word Embeddings To Document Distances](pdf/from_word_embeddings_to_document_distances.pdf)
-* [Neural Text Generation: A Practical Guide](neural_text_generation_a_practical_guide.pdf)
-* [A Deep Reinforcement Model for Abstractive Summarization](pdf/a_deep_reinforced_model_for_abstractive_summarization.pdf)
-* [Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries](pdf/domain_adaptation_using_stock_market_prices_to_refine_sentiment_dictionaries.pdf)
 * [Lancaster A at SemEval-2017 Task 5: Evaluation metrics matter](pdf/lancaster_a_at_semeval-2017_task_5_evaluation_metrics_matter_predicting_sentiment_from_financial_news_headlines.pdf) and [Code](https://github.com/apmoore1/semeval)
+* [Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries](pdf/domain_adaptation_using_stock_market_prices_to_refine_sentiment_dictionaries.pdf)
 
 ### Repos
 * [WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)
