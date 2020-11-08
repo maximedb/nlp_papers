@@ -37,6 +37,7 @@ Direct applications of NLP research to financial markets.
 * [Predicting Returns with Text Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3389884)
 * [Lancaster A at SemEval-2017 Task 5: Evaluation metrics matter](pdf/lancaster_a_at_semeval-2017_task_5_evaluation_metrics_matter_predicting_sentiment_from_financial_news_headlines.pdf) and [Code](https://github.com/apmoore1/semeval)
 * [Domain Adaptation using Stock Market Prices to Refine Sentiment Dictionaries](pdf/domain_adaptation_using_stock_market_prices_to_refine_sentiment_dictionaries.pdf)
+* [Climate change concerns and the performance of green versus brown stocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3717722)
 
 ### Repos
 * [WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction](https://github.com/WayneDW/Sentiment-Analysis-in-Event-Driven-Stock-Price-Movement-Prediction)
